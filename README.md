@@ -14,7 +14,7 @@
 </div>
 
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -22,7 +22,7 @@
 ### :man_technologist: &nbsp;About Me :
 
 I am a Deep Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Kazan.<br>
-  In my free time I play with kaggle datasets and read arxiv <img src="https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif" width="30px"/>.<br>
+  In my free time I play with kaggle datasets and read arxiv.<br>
 <div align="left">  
   Experience and projects:<br>
 • Master's thesis on Analyzing Possible Influences on Class Activation Based Explainability Methods for Image Classifiers.<br>
